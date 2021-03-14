@@ -1,5 +1,7 @@
 ### 👋 Hello!
 
+p align="left"> <img src="https://komarev.com/ghpvc/?username=LogischJo&label=Profile%20views&color=0e75b6&style=flat" alt="LogischJo" /> </p>
+
 ## I'm LogischJoJo
 - I love making [Discord](https://discord.com) Bots & [NodeJS](https://nodejs.org) Programs in Javascript!
 
