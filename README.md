@@ -1,7 +1,7 @@
 ### 👋 Hello!
 
 ## I'm LogischJoJo
-- 🧡 I love making [Discord](https://discord.com) Bots & [NodeJS](https://nodejs.org) Programs in Javascript!
+- I love making [Discord](https://discord.com) Bots & [NodeJS](https://nodejs.org) Programs in Javascript!
 
 ### 🧑 Contact Me!
 [<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](discord.gg/cAn98tGRWC)
