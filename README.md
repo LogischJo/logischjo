@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=LogischJo&label=Profile%20views&color=0e75b6&style=flat" alt="LogischJo" /> </p>
 
 ## I'm LogischJoJo
-- I love making [Discord](https://discord.com) Bots & [NodeJS](https://nodejs.org) Programs in Javascript!
+- I love making [Discord](https://discord.com) Bots & [NodeJS](https://nodejs.org) Programs in Javascript! But I like Laravel too 
 
 ### 🧑 Contact Me!
 [<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/Yb7E8rACqE)
